@@ -46,4 +46,6 @@ What struck me is the discipline this creates: there's a clear main file, indivi
 
 - **chandrikasriv**: I had never heard about the concept of "stashing" before, and I didn't realize one can easily switch to someone else's branch. That's very cool.
 
+**@jordanp** — The branch → PR → merge loop finally clicked for me. Excited to use this for our docs!
+
 **@sellausedcar** — I learned how to commit.
